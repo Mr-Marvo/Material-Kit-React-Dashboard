@@ -1,40 +1,48 @@
-## Minimal [(Free version)](https://minimal-kit-react.vercel.app/)
-
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
+## Material UI Dashboard
 
 > Free React Admin Dashboard made with Material-UI components and React.
 
 ![preview](public/assets/preview.jpg)
 
-| [Minimal Free](https://minimal-kit-react.vercel.app/) | [Minimal](https://material-ui.com/store/items/minimal-dashboard/) |
-| ----------------------------------------------------- | :---------------------------------------------------------------- |
-| **6** Demo pages                                      | **50+** demo pages                                                |
-| -                                                     | ✓ Multi-language                                                  |
-| -                                                     | ✓ Dark/Light Mode 🌓                                              |
-| -                                                     | ✓ [More components](https://minimals.cc/components)               |
-| -                                                     | ✓ Next.js version                                                 |
-| -                                                     | ✓ TypeScript version                                              |
-| -                                                     | ✓ Design files (Figma & Sketch)                                   |
+# Starter Admin Dashboard Template
 
-## Page demo
+Quick stater Admin Dashboard Template customized using Material UI components. Fully Responsive Admin Dashboard Template Developed by Mr.Marvo.
+[Live Preview](https://material-dashboard-template.netlify.app/)
 
-- [Dashboard](https://minimal-kit-react.vercel.app/dashboard/app)
-- [Users](https://minimal-kit-react.vercel.app/dashboard/user)
-- [Product](https://minimal-kit-react.vercel.app/dashboard/products)
-- [Blog](https://minimal-kit-react.vercel.app/dashboard/blog)
-- [Login](https://minimal-kit-react.vercel.app/login)
-- [Not Found](https://minimal-kit-react.vercel.app/404)
+## Installation
 
-## Getting started
+You can clone my repo and play with it as needed. Remember to give a Start and Follow for more...
 
-- Recommended `node js 16.x` and `npm 6+`. (suggestion v16.15.0)
-- Install dependencies: `npm install` / `yarn install`
-- Start the project: `npm run start` / `yarn start`
+```bash
 
-## License
+  # Clone the repository and change directory into it
+  git clone https://github.com/Mr-Marvo/Material-Kit-React-Dashboard
+  cd material-kit-react-main
 
-Distributed under the MIT License. See [LICENSE](https://github.com/minimal-ui-kit/minimal.free/blob/main/LICENSE.md) for more information.
+  npm install            # Download packages
+  npm run start            # Run the dev server
+```
 
-## Contact us
+## Making Changes
 
-Email Us: support@minimals.cc
+Do what you want, build an amazing Dashboard.
+
+## Learn More
+
+You can learn more about ReactJs, Angular, TailwindCss and more from my github. So please hit [Follow](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FMr-Marvo) button.
+You can learn more about Blockchain Development and web3 from my github. So please hit [Follow](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FMr-Marvo) button.
+
+### Contact Me
+
+If you want any support or If you have any project for me please feel free to contact me.\
+View [Github Profile](https://github.com/Mr-Marvo) for contact details.
+
+If you like my project please hit the [star] button
+## ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/mr.marvo)
+## ⭐ Give a Star
+## 💪 [Follow Me](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FMr-Marvo) 
+## ⚡ [Github](https://github.com/Mr-Marvo)
+
+
+## Happy Coding ♨
+devNishan
